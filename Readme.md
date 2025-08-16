@@ -15,7 +15,7 @@ It allows multiple clients to connect to a server and exchange messages in real-
     g++ server.cpp -o server
     g++ client.cpp -o client
 
-or 
+    or 
     ```bash
     make
 
@@ -28,7 +28,7 @@ or
 The server will listen on port 8080.
 
 2. Start clients:
-Provide the server IP address when starting a client:
+    Provide the server IP address when starting a client:
     ```bash
     ./client 127.0.0.1
 
