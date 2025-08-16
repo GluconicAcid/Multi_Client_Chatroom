@@ -16,7 +16,7 @@ It allows multiple clients to connect to a server and exchange messages in real-
     g++ client.cpp -o client
 
     or 
-    
+
     make
 
 ## Usage
@@ -48,3 +48,5 @@ To exit a client: Press Ctrl+C
 ## Testing
 
 To test the server and client run the shell script test.sh
+
+Feel free to reachout to me here : gluconic46@gmail.com
