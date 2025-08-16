@@ -15,6 +15,10 @@ It allows multiple clients to connect to a server and exchange messages in real-
     g++ server.cpp -o server
     g++ client.cpp -o client
 
+or 
+    ```bash
+    make
+
 ## Usage
 
 1. Start the server:
@@ -41,3 +45,6 @@ Maximum clients: Limited by FD_SETSIZE (usually 1024)
 
 To exit a client: Press Ctrl+C
 
+## Testing
+
+To test the server and client run the shell script test.sh
