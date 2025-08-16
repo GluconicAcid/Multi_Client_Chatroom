@@ -16,7 +16,7 @@ It allows multiple clients to connect to a server and exchange messages in real-
     g++ client.cpp -o client
 
     or 
-    ```bash
+    
     make
 
 ## Usage
